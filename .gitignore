@@ -1,4 +1,5 @@
 # ignore everything in .jpg
 *.jpg
+*.mp3
 
 *.log
